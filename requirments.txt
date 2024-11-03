@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain==0.1.8
+langchain-community==0.0.21
+mysql-connector-python==8.3.0
