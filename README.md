@@ -6,6 +6,7 @@ Welcome to the SQL Chatbot project! This application allows users to interact wi
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
+- [Explanation of How the Chatbot Works](#Explanation-of-How-the-Chatbot-Works)
 
 
 ## Overview
@@ -19,7 +20,7 @@ The SQL Chatbot was developed to make data retrieval from SQL databases easier a
    Implements memory to enable seamless follow-up questions and context retention, enhancing the user experience.
 
 - **SQL Database Connectivity**  
-   Connects to a SQL database using **SQLAlchemy** to execute queries and retrieve data.
+   Connects to a SQL database to execute queries and retrieve data.
 
 - **User-Friendly Chat Interface**  
    Built with **Streamlit** to provide a simple and accessible frontend where users can type questions and view results.
@@ -31,8 +32,4 @@ The SQL Chatbot was developed to make data retrieval from SQL databases easier a
 - **LangChain** - For integrating and managing LLM-based workflows
 - **SQLAlchemy** - Database toolkit and ORM for connecting to and querying SQL databases
 
-### Prerequisites
-Ensure you have the following installed:
-- **Python 3.8+**
-- **pip** (Python package manager)
-- Access to **Gemini Pro** (or an equivalent open-source LLM)
+## Explanation of How the Chatbot Works
