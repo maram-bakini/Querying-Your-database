@@ -33,3 +33,6 @@ The SQL Chatbot was developed to make data retrieval from SQL databases easier a
 - **SQLAlchemy** - Database toolkit and ORM for connecting to and querying SQL databases
 
 ## Explanation of How the Chatbot Works
+
+![Chatbot Interface](SQL )
+
