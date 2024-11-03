@@ -30,9 +30,8 @@ The SQL Chatbot was developed to make data retrieval from SQL databases easier a
 - **Python** - Core programming language
 - **Streamlit** - Framework for creating an interactive web interface
 - **LangChain** - For integrating and managing LLM-based workflows
-- **SQLAlchemy** - Database toolkit and ORM for connecting to and querying SQL databases
 
 ## Explanation of How the Chatbot Works
 
-![Chatbot Interface](SQL )
+![Chatbot Interface](SQL_Chain_Process.png)
 
